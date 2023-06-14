@@ -1,0 +1,89 @@
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+
+.contenitor{
+  background-color: rgba(0,0,0,0.5);
+  width: auto;
+  height: 750px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-top: 20px;
+  border-radius: 5%;
+}
+
+.logo{
+  width: 250px;
+  margin-top: 50px;
+}
+
+h1{
+  color: #08dc04;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+  text-align: center;
+}
+
+nav{
+  background-color: #08dc04;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding: 12px;
+  text-align: center;
+}
+
+.Driver{
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+
+.monopattino{
+  margin-top: 25px;
+  margin-left: 80px;
+}
+
+.address{
+  color: lightgray;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.info{
+  color: lightgray;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.bar1{
+  background-color: orange;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 550px;
+  margin-top: 3px;
+}
+
+.bar2{
+  background-color: green;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 350px;
+  margin-top: 3px;
+}
+
+.bar3{
+  background-color: red;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 720px;
+  margin-top: 3px;
+}
+
+h5{
+  color: white;
+  margin-left: 700px;
+}
